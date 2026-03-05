@@ -4,11 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a741db1-1a9c-4f17-b9f8-92cd6e0165da" name="Changes" comment="" />
+    <list default="true" id="5a741db1-1a9c-4f17-b9f8-92cd6e0165da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/src/UseCase2RoomInitialization.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -67,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772687184080</updated>
-      <workItem from="1772687185321" duration="1313000" />
+      <workItem from="1772687185321" duration="1625000" />
     </task>
     <servers />
   </component>
