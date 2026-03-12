@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a741db1-1a9c-4f17-b9f8-92cd6e0165da" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/src/UseCase6RoomAllocationService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +23,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "pavithra07-hub"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;pavithra07-hub&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/pavithra07-hub/BookMyStayApp.git",
-    "accountId": "c55a59ae-f519-44ea-8d94-26a9ad4d83e4"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/pavithra07-hub/BookMyStayApp.git&quot;,
+    &quot;accountId&quot;: &quot;c55a59ae-f519-44ea-8d94-26a9ad4d83e4&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="3AVodCmPKHsl4xNpT9tT4gS9mSw" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -49,7 +50,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "uc4",
+    "git-widget-placeholder": "uc6",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "C:/Users/spavi/IdeaProjects/BookMyStayApp",
     "node.js.detected.package.eslint": "true",
@@ -76,7 +77,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1772687184080</updated>
-      <workItem from="1772687185321" duration="2768000" />
+      <workItem from="1772687185321" duration="3051000" />
+      <workItem from="1773284880666" duration="613000" />
     </task>
     <servers />
   </component>
